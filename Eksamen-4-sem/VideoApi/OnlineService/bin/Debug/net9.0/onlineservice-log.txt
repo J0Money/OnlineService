@@ -1,0 +1,10 @@
+2026-05-11 11:40:17.6308|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129
+2026-05-11 11:40:17.6425|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-05-11 11:40:17.6425|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2026-05-11 11:40:17.6425|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\joach\OneDrive\Skrivebord\Eksamen-4-sem\VideoApi\OnlineService
+2026-05-11 11:41:07.5499|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-05-11 11:41:09.8980|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 
+2026-05-11 11:41:09.9071|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2026-05-11 11:41:09.9071|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2026-05-11 11:41:09.9071|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\joach\OneDrive\Skrivebord\Eksamen-4-sem\VideoApi\OnlineService 
+2026-05-11 12:13:42.3836|INFO|Microsoft.Hosting.Lifetime|Application is shutting down... 
